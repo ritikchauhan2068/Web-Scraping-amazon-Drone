@@ -18,7 +18,7 @@ Follow these steps to start using this web scraping tool:
      -Import pandas library
      -Import time               
 
-3. **Usage:** [Explain how to use the code, provide code examples, and link to documentation]
+3. **Usage:** 
      -First install all library
      -Run drone.py code 
 
